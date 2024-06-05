@@ -162,7 +162,7 @@ body {
   }
 
   .section1 h1 {
-    font-size: 28px;
+    font-size: 26px;
     line-height: 35px;
     padding: 0 60px;
   }
@@ -184,7 +184,6 @@ body {
     bottom: 210px;
     max-width: 500px;
     width: 100%;
-    
   }
 
   .bk_2 {
@@ -418,7 +417,7 @@ body {
 
   .quote {
     width: 30px;
-    left: 105px;
+    left: 100px;
     top: 157px;
   }
 }
@@ -575,6 +574,7 @@ footer {
 .foot_2 div {
   display: flex;
   gap: 20px;
+  color: var(--white);
 }
 
 .foot_2 div p {
