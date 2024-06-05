@@ -162,15 +162,15 @@ body {
   }
 
   .section1 h1 {
-    font-size: 26px;
+    font-size: 25px;
     line-height: 35px;
-    padding: 0 60px;
+    padding: 0 20px;
   }
 
   .section1 p {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 25px;
-    padding: 0 60px;
+    padding: 0 20px;
   }
 
   .wave_desk {
@@ -417,7 +417,7 @@ body {
 
   .quote {
     width: 30px;
-    left: 100px;
+    left: 70px;
     top: 157px;
   }
 }
